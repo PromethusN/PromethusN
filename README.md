@@ -1,6 +1,6 @@
 ### こんにちは , I'm Nishant Dhotre  👋
 
-**PromethusN/PromethusN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **PromethusN/PromethusN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dhotrenishant@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: winter is coming !!!
--->
+
