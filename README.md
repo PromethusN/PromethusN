@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Block Chain DAPP
-- 🌱 I’m currently learning  Block Chain
+- 🔭 I’m currently working on  Data Analisys
+- 🌱 I’m currently learning  Data Analisys
 - 👯 I’m looking to collaborate on mini Projects
 - 🤔 I’m looking for help with webDev
 - 💬 Ask me about python ,c ,HTML ,etc..
