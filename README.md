@@ -1,6 +1,5 @@
 ### こんにちは , I'm Nishant Dhotre  👋
  <img align="right" alt="GIF" src="https://github.com/NishantDhotre/NishantDhotre/blob/main/code.gif?raw=true" width="500" height="320" />
-code.gif
 <!-- **PromethusN/PromethusN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
