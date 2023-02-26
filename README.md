@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on  Data Analisys
+- 🔭 I’m currently working on  FULL STACK DEV
 - 🌱 I’m currently learning  Data Analisys
 - 👯 I’m looking to collaborate on mini Projects
 - 🤔 I’m looking for help with webDev
