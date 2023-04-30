@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [email](mailto:dhotrenishant@gmail.com) :) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: winter is coming !!!
+-  👨‍💻 Coding Profiles: [LeetCode](https://leetcode.com/Promethus/)  / 
+                        [CodeStudio](https://www.codingninjas.com/codestudio/profile/02672f29-0cc8-4973-a59b-45cfbd161a8e) / 
+                        [CodeChef](https://www.codechef.com/users/nishant779) / 
 
 
 ##
