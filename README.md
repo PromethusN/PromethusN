@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on  FULL STACK DEV
-- 🌱 I’m currently learning  DSA
+- 🔭 I’m currently working on  ML project
+- 🌱 I’m currently learning  NLP
 - 👯 I’m looking to collaborate on mini Projects
-- 🤔 I’m looking for help with webDev
+- 🤔 I’m looking for help with NLP
 - 💬 Ask me about python ,C++, C ,HTML ,etc..
 - 📫 How to reach me: [email](mailto:dhotrenishant@gmail.com) :) 
 - 😄 Pronouns: He/His
